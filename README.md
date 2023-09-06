@@ -3,7 +3,7 @@
 
 - 🌱 Check My Profile For Free Frameworks! [https://github.com/Delightr](https://github.com/Delightr)
 
-- 📝 You Can Find My Projects On GitHub [https://ppf.one/delight](https://ppf.one/delight)
+- 📝 You Can Find My Projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
